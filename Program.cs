@@ -11,6 +11,7 @@ namespace RepTest
         static void Main(string[] args)
         {
             Console.Write("Hello World");
+            Console.Write("!");
             Console.ReadLine();
         }
     }
